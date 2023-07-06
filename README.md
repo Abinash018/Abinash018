@@ -7,7 +7,7 @@ _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff with K
 ### 🎍 Welcome to my Github 👨‍💻
 
 - 👦 Google Developer Expert @Android
-- 💼 Freelance Android Developer @ [Fiverr](https://www.fiverr.com/).
+- 💼 Freelance Android Developer @ [Fiverr](https://www.fiverr.com).
 - 👨‍💻 ***#SelfTaught*** Developer.
 - 👨‍💻 I develop Mobile, Web apps and can also develop Backend server for apps.
 - ✍️ Write blogs on [blog.shreyaspatil.dev](https://blog.shreyaspatil.dev).
