@@ -1,6 +1,6 @@
 # Hi there👋! I'm [Abinash](https://shreyaspatil.dev) 🙋‍♂️
 
-
+  
 
 _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff with Kotlin and java 🥽.
 
@@ -13,11 +13,11 @@ _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff with K
 - ✍️ Write blogs on [blog.shreyaspatil.dev](https://blog.shreyaspatil.dev).
 - Loves 🎵 and 🎹       .
 - Proud 🇮🇳      .
-
+---
 
 -------
 
-## 🔗 Know more about me              
+## 🔗 Know more about me                  
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shreyaspatil.dev/)
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:hi@shreyaspatil.dev)
