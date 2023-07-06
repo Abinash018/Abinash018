@@ -1,4 +1,4 @@
-# Hi there👋! I'm [Shreyas](https://shreyaspatil.dev) 🙋‍♂️
+# Hi there👋! I'm [Abinash](https://shreyaspatil.dev) 🙋‍♂️
 
 ![Profile views](https://gpvc.arturio.dev/PatilShreyas)
 
