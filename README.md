@@ -17,7 +17,7 @@ _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff with K
 
 ---
 
-## 🔗 Know more about me 
+## 🔗 Know more about me        
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shreyaspatil.dev/)
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:hi@shreyaspatil.dev)
