@@ -4,7 +4,7 @@
 
 _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff with Kotlin_ 🥽.
 
-### 🎍 Welcome to my hub 👨‍💻
+### 🎍 Welcome to my Github 👨‍💻
 
 - 👦 Google Developer Expert @Android
 - 💼 Freelance Android Developer @ [Fiverr](https://www.fiverr.com/).
