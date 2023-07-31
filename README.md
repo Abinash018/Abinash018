@@ -2,7 +2,7 @@
 
   
 
-_**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff with Kotlin and java 🥽.
+_**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff with Kotlin and java 🥽 .
 
 ### 🎍 Welcome to my Github 👨‍💻
  
