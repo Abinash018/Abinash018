@@ -23,6 +23,6 @@ _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff with K
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:gabinash018@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/Abinash0188)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/g-abinash-514a16204/)
-[![Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium)](https://medium.com)
+[![Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium)](https://medium.com/@gabinash018)
 [![Google Play](https://img.shields.io/badge/-Google%20Play-black?style=for-the-badge&logo=google-play)](https://play.google.com/store)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://instagram.com)
