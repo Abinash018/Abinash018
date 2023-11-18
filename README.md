@@ -2,7 +2,7 @@
   
      
 
-_**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff with Kotlin and java 🥽,MERN,TypeScript,Djnago,FLUTTER,Block Chain . 
+_**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff with Kotlin and java 🥽,MERN,TypeScript,Djnago,FLUTTER,Block Chain ,ReactNative . 
 
 ### 🎍 Welcome to my Github 👨‍💻           
   
