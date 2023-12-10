@@ -4,7 +4,7 @@
 
 _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff with Kotlin and java 🥽,MERN,TypeScript,Djnago,FLUTTER,Block Chain ,ReactNative ,devops and more on cloud    . 
 
-### 🎍 Welcome to my Github 👨‍💻                    
+### 🎍 Welcome to my Github 👨‍💻                                                                        
   
 - 👦 Google Developer Expert @Android
 - 💼 Freelance Android Developer @ [Fiverr](https://www.fiverr.com) and Upwork.
