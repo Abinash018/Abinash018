@@ -8,7 +8,7 @@ _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff with K
   
 - 👦 Google Developer Expert @Android
 - 💼 Freelance Android Developer @ [Fiverr](https://www.fiverr.com) and Upwork.
-- 👨‍💻 ***#SelfTaught*** Developer.
+- 👨‍💻 ***#SelfTaught*** Developer.m     
 - 👨‍💻 I develop Mobile, Web apps and can also develop Backend server for apps.
 - ✍️ Write blogs on [blogger](https://friendlyabinash.blogspot.com/).
 - Loves 🎵 and 🎹        .
